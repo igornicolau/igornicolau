@@ -4,6 +4,6 @@
 
 Fascinated about technology and it's complexity.
 
-<br/> :mortar_board: &nbsp; Currently learning Node.js, React, React Native and TypeScript
+<br/> :mortar_board: &nbsp; Currently learning Node.js, React, React Native and TypeScript.
 <br/> :muscle: &nbsp; Looking for JavaScript projects to colaborate and learn from.
 
