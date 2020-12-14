@@ -1,8 +1,9 @@
-# Olá, Igor aqui 👋
+# Igor Rossetti
 
-Fascinado por tecnologia e sua complexidade :computer:
+[![Linkedin Badge](https://img.shields.io/badge/-IgorRossetti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igor-nicolau-rossetti-a840b7b4/)](https://www.linkedin.com/in/igor-nicolau-rossetti-a840b7b4/)
 
-<br/> :mortar_board: &nbsp; Estudando Node, React e React Native
-<br/> :muscle: &nbsp; Buscando colaborar e aprender com projetos que utilizam as tecnologias que estudo
-<br/> :email: &nbsp; Contato: [![Linkedin Badge](https://img.shields.io/badge/-IgorRossetti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igor-nicolau-rossetti-a840b7b4/)](https://www.linkedin.com/in/igor-nicolau-rossetti-a840b7b4/) 
+Fascinated about technology and it's complexity.
+
+<br/> :mortar_board: &nbsp; Currently learning Node.js, React, React Native and TypeScript
+<br/> :muscle: &nbsp; Looking for JavaScript projects to colaborate and learn from.
 
