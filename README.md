@@ -1,7 +1,6 @@
 ## 🙋‍♂️ About me
 
 - 💻 Back-end developer
-- 🎓 Currently learning more about Spring
 
 ## 👨‍💻 Skills
 <div style="display: inline_block"><br>
