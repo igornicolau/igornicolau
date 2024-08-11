@@ -1,6 +1,6 @@
 ## 🙋‍♂️ About me
 
-- 💻 Back-end developer
+- 💻 Software engineer with experience in server-side applications
 
 ## 👨‍💻 Skills
 <div style="display: inline_block"><br>
